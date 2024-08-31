@@ -1,4 +1,4 @@
-package defaultpackage;
+
 
 public class FizzBuzz {
 
